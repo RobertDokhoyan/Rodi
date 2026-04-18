@@ -45,9 +45,9 @@
         android:layout_gravity="bottom|center_horizontal"
         android:layout_marginBottom="30dp"
         android:contentDescription="@string/app_name"
-        android:src="@drawable/micro_pomegranate"
+        android:src="@drawable/chatgpt_image_18______2026_____23_44_25"
         app:backgroundTint="@color/white"
-        app:maxImageSize="34dp"
+        app:maxImageSize="80dp"
         app:tint="@null" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
